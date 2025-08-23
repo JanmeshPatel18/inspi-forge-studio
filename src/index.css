@@ -45,7 +45,7 @@
     --gradient-hero: linear-gradient(135deg, hsl(188 95% 35%), hsl(188 95% 28%));
     --gradient-overlay: linear-gradient(135deg, hsl(210 12% 16% / 0.9), hsl(210 12% 16% / 0.7));
     
-    <!-- Shadow System -->
+    /* Shadow System */
     --shadow-soft: 0 2px 10px hsl(210 12% 16% / 0.1);
     --shadow-medium: 0 8px 30px hsl(210 12% 16% / 0.12);
     --shadow-strong: 0 20px 40px hsl(210 12% 16% / 0.15);
